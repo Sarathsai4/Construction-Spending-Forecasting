@@ -150,4 +150,12 @@ This project is licensed for academic, educational, and research purposes. Pleas
 
 ---
 
+# 🏗️ Construction Spending Forecasting  
+
+[🔗 **View Full Interactive Report**](https://sarathsai4.github.io/Construction-Spending-Forecasting/CONSTRUCTION%20SPENDING%20FINAL%20ANALYSIS.html)
+
+This project uses **R** and **Quarto** for forecasting U.S. construction spending using ARIMA models, trend decomposition, and visualization.  
+It demonstrates advanced time-series analysis and forecasting techniques.
+
+
 ⭐️ *If this project helped you understand time series forecasting, feel free to star the repository and fork it for your own applications!*
