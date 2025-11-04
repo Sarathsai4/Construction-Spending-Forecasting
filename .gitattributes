@@ -1,0 +1,8 @@
+# Force HTML outputs to be recognized as R
+*.html linguist-language=R
+
+# If you have R Markdown files too
+*.Rmd linguist-language=R
+
+# Optional: Ignore HTML from the language stats
+*.html linguist-detectable=false
